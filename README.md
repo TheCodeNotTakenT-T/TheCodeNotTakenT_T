@@ -10,7 +10,7 @@ A personal portfolio
 
 ### About
 
-The username says it all — I take the road less traveled. Then debug why it doesn't compile. T-T
+The username says it all I take the code less traveled. Then debug why it doesn't compile. T-T
 
 I build things that probably shouldn't exist yet: autonomous AI agents, real-time intelligence dashboards, execution terminals for ecosystems most people are still trying to understand. My process is simple — pick a hard problem, ship something that works, figure out the rest later.
 
