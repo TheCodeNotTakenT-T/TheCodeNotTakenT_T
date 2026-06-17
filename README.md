@@ -82,7 +82,7 @@ Right now I'm deep in multi-agent AI systems and Solana tooling. I build for hac
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheCodeNotTakenT-T&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub Stats" height="180" />
+  <img src="[https://github-readme-stats-sigma-five.vercel.app/api?username=TheCodeNotTakenT-T&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub Stats" height="180](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheCodeNotTakenT-T&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9)" />
   <img src="https://github-readme-streak-stats.demolab.com/?user=TheCodeNotTakenT-T&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE"/>
 </p>
 
